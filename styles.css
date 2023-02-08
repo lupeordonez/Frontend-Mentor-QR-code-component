@@ -1,58 +1,38 @@
-* {
-  margin: 0;
-  padding: 0;
-  font-size: 0.9375rem;
-  @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
-}
 body {
   background-color: hsl(212, 45%, 89%);
+  font-family: 'Outfit', sans-serif;
 }
 
-.container {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.container {
-  align-items: center;
-}
-
-.inner-container {
-  width: 250px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  border-radius: 0.6rem;
-  background-color: hsl(0, 0%, 100%);
-}
-
-h3,
-p {
-  margin: 1.5rem 0;
+.attribution { 
+  font-size: 11px; 
   text-align: center;
-  width: 90%;
-  margin: 1rem auto;
 }
 
-h3 {
-  font-size: 1.2rem;
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
 }
 
-p {
-  font-size: 0.8rem;
-}
-.qr-container {
-  width: 90%;
-  height: auto;
-  border-radius: 5px;
+.qr img {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
 }
 
-.qr-pic {
-  width: 90%;
-  height: auto;
-  margin-top: 1rem;
-  border-radius: 0.5rem;
+.qr {
+  text-align: center;
+  background-color: white;
+  margin: 170px auto;
+  border-radius: 20px;
+  width: 300px;
+  height: 300px;
+  padding: 20px 30px 180px 30px;
+}
+
+.qr h2 {
+  color: hsl(218, 44%, 22%);
+}
+
+.qr p{
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
 }
