@@ -4,25 +4,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
   - [Links](#links)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Author](#author)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-### What I learned
-
-This is the first time I work with imported fonts, it was tricky to use since i'm used to use the default ones.
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/frontend-mentor-qr-code-component-Y-6pe3HgdU)
+- Live Site URL: [Portfolio](https://lupeordonez-qr-code-component.netlify.app/)
 
 ### Continued development
 
-I want to keep polishing my -reactive- skills.
-
+I want to keep polishing my -reactive- skills and I still trying to figure out how to import new fonts
 
 ## Author
 
-- Website - [Portfolio](https://www.your-site.com)
-- Frontend Mentor - [lupeordonez](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Portfolio](https://guordonez.netlify.app)
+- Frontend Mentor - [lupeordonez](https://www.frontendmentor.io/profile/lupeordonez)
